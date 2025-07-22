@@ -2,7 +2,7 @@
 
 Este repositório contém os arquivos desenvolvidos durante as aulas da disciplina de **Banco de Dados**, incluindo exercícios práticos e provas resolvidas com foco em modelagem e manipulação de dados relacionais via SQL.
 
-## 📁 Organização
+## Organização
 
 - `Exercicios/`: Scripts SQL realizados durante as aulas, abordando criação de tabelas, normalização, consultas, etc.
 - `Provas/`: Resolução de provas da disciplina, contendo consultas mais complexas e aplicação prática dos conceitos.
